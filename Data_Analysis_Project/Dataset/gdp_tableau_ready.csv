@@ -1,0 +1,191 @@
+Country,IMF-Estimate,Rank,Top10
+World,113795678.0,1.0,True
+United States,30507217.0,2.0,True
+China,19231705.0,3.0,True
+Germany,4744804.0,4.0,True
+India,4187017.0,5.0,True
+Japan,4186431.0,6.0,True
+United Kingdom,3839180.0,7.0,True
+France,3211292.0,8.0,True
+Italy,2422855.0,9.0,True
+Canada,2225341.0,10.0,True
+Brazil,2125958.0,11.0,False
+Russia,2076396.0,12.0,False
+Spain,1799511.0,13.0,False
+South Korea,1790322.0,14.0,False
+Australia,1771681.0,15.0,False
+Mexico,1692640.0,16.0,False
+Turkey,1437406.0,17.0,False
+Indonesia,1429743.0,18.0,False
+Netherlands,1272011.0,19.0,False
+Saudi Arabia,1083749.0,20.0,False
+Poland,979960.0,21.0,False
+Switzerland,947125.0,22.0,False
+Taiwan,804889.0,23.0,False
+Belgium,684864.0,24.0,False
+Argentina,683533.0,25.0,False
+Sweden,620297.0,26.0,False
+Ireland,598840.0,27.0,False
+Israel,583361.0,28.0,False
+Singapore,564774.0,29.0,False
+United Arab Emirates,548598.0,30.0,False
+Thailand,546224.0,31.0,False
+Austria,534301.0,32.0,False
+Norway,504276.0,33.0,False
+Philippines,497495.0,34.0,False
+Vietnam,490970.0,35.0,False
+Bangladesh,467218.0,36.0,False
+Denmark,449940.0,37.0,False
+Malaysia,444984.0,38.0,False
+Colombia,427766.0,39.0,False
+Hong Kong,423999.0,40.0,False
+South Africa,410338.0,41.0,False
+Romania,403395.0,42.0,False
+Czech Republic,360244.0,43.0,False
+Egypt,347342.0,44.0,False
+Chile,343823.0,45.0,False
+Iran,341013.0,46.0,False
+Portugal,321440.0,47.0,False
+Finland,303945.0,48.0,False
+Peru,303293.0,49.0,False
+Kazakhstan,300538.0,50.0,False
+Algeria,268885.0,51.0,False
+Greece,267348.0,52.0,False
+Iraq,258020.0,53.0,False
+New Zealand,248666.0,54.0,False
+Hungary,237070.0,55.0,False
+Qatar,222776.0,56.0,False
+Ukraine,205742.0,57.0,False
+Nigeria,188271.0,58.0,False
+Morocco,165835.0,59.0,False
+Kuwait,153101.0,60.0,False
+Slovakia,147031.0,61.0,False
+Uzbekistan,132484.0,62.0,False
+Kenya,131673.0,63.0,False
+Dominican Republic,127828.0,64.0,False
+Ecuador,125677.0,65.0,False
+Puerto Rico,122522.0,66.0,False
+Guatemala,121177.0,67.0,False
+Ethiopia,117457.0,68.0,False
+Bulgaria,117007.0,69.0,False
+Angola,113343.0,70.0,False
+Venezuela,108511.0,71.0,False
+Oman,104351.0,72.0,False
+Costa Rica,102591.0,73.0,False
+Croatia,98951.0,74.0,False
+Luxembourg,96613.0,75.0,False
+Ivory Coast,94483.0,76.0,False
+Serbia,92549.0,77.0,False
+Panama,91675.0,78.0,False
+Lithuania,89192.0,79.0,False
+Turkmenistan,89054.0,80.0,False
+Ghana,88332.0,81.0,False
+Tanzania,85977.0,82.0,False
+Uruguay,79731.0,83.0,False
+DR Congo,79119.0,84.0,False
+Azerbaijan,78870.0,85.0,False
+Slovenia,75224.0,86.0,False
+Belarus,71561.0,87.0,False
+Myanmar,64944.0,88.0,False
+Uganda,64277.0,89.0,False
+Bolivia,56339.0,90.0,False
+Tunisia,56291.0,91.0,False
+Jordan,56102.0,92.0,False
+Cameroon,56011.0,93.0,False
+Macau,53354.0,94.0,False
+Cambodia,49799.0,95.0,False
+Bahrain,47829.0,96.0,False
+Libya,47484.0,97.0,False
+Nepal,46080.0,98.0,False
+Latvia,45535.0,99.0,False
+Paraguay,45465.0,100.0,False
+Estonia,45004.0,101.0,False
+Cyprus,38736.0,102.0,False
+Zimbabwe,38172.0,103.0,False
+Honduras,38172.0,103.0,False
+El Salvador,36749.0,104.0,False
+Georgia,35353.0,105.0,False
+Iceland,35309.0,106.0,False
+Senegal,34728.0,107.0,False
+Haiti,33548.0,108.0,False
+Papua New Guinea,32835.0,109.0,False
+Sudan,31506.0,110.0,False
+Guinea,30094.0,111.0,False
+Zambia,28910.0,112.0,False
+Bosnia and Herzegovina,28807.0,113.0,False
+Albania,28372.0,114.0,False
+Burkina Faso,27056.0,115.0,False
+Trinidad and Tobago,26467.0,116.0,False
+Armenia,26258.0,117.0,False
+Guyana,25822.0,118.0,False
+Mongolia,25804.0,119.0,False
+Malta,25750.0,120.0,False
+Mozambique,23771.0,121.0,False
+Mali,23208.0,122.0,False
+Benin,22236.0,123.0,False
+Niger,21874.0,124.0,False
+Jamaica,21411.0,125.0,False
+Nicaragua,21155.0,126.0,False
+Gabon,20391.0,127.0,False
+Kyrgyzstan,19849.0,128.0,False
+Moldova,19462.0,129.0,False
+Botswana,19400.0,130.0,False
+Chad,18792.0,131.0,False
+Madagascar,18708.0,132.0,False
+North Macedonia,17885.0,133.0,False
+Yemen,17401.0,134.0,False
+Laos,16322.0,135.0,False
+Brunei,16007.0,136.0,False
+Mauritius,15495.0,137.0,False
+Congo,15281.0,138.0,False
+Bahamas,15178.0,139.0,False
+Tajikistan,14836.0,140.0,False
+Rwanda,14771.0,141.0,False
+Namibia,14214.0,142.0,False
+Malawi,13959.0,143.0,False
+Somalia,12994.0,144.0,False
+Equatorial Guinea,12684.0,145.0,False
+Mauritania,11470.0,146.0,False
+Kosovo,11274.0,147.0,False
+Togo,10023.0,148.0,False
+Montenegro,8562.0,149.0,False
+Sierra Leone,8386.0,150.0,False
+Barbados,7552.0,151.0,False
+Maldives,7480.0,152.0,False
+Burundi,6745.0,153.0,False
+Fiji,6257.0,154.0,False
+Eswatini,5483.0,155.0,False
+Liberia,5166.0,156.0,False
+Djibouti,4587.0,157.0,False
+Suriname,4506.0,158.0,False
+Aruba,4100.0,159.0,False
+Andorra,4035.0,160.0,False
+South Sudan,3998.0,161.0,False
+Belize,3611.0,162.0,False
+Bhutan,3422.0,163.0,False
+Central African Republic,2932.0,164.0,False
+Cape Verde,2786.0,165.0,False
+Gambia,2771.0,166.0,False
+Saint Lucia,2632.0,167.0,False
+Lesotho,2404.0,168.0,False
+Antigua and Barbuda,2373.0,169.0,False
+Guinea-Bissau,2274.0,170.0,False
+Seychelles,2198.0,171.0,False
+Timor-Leste,2115.0,172.0,False
+San Marino,2047.0,173.0,False
+Solomon Islands,1898.0,174.0,False
+Comoros,1548.0,175.0,False
+Grenada,1464.0,176.0,False
+Vanuatu,1267.0,177.0,False
+Saint Vincent and the Grenadines,1242.0,178.0,False
+Samoa,1160.0,179.0,False
+Saint Kitts and Nevis,1129.0,180.0,False
+São Tomé and Príncipe,864.0,181.0,False
+Dominica,742.0,182.0,False
+Tonga,568.0,183.0,False
+Micronesia,500.0,184.0,False
+Palau,333.0,185.0,False
+Kiribati,312.0,186.0,False
+Marshall Islands,297.0,187.0,False
+Nauru,169.0,188.0,False
+Tuvalu,65.0,189.0,False
